@@ -1,4 +1,4 @@
-# DBSCAN-with-Sklearn
+# DBSCAN python
 Implementasi dari metode DBSCAN dengan modul Sklearn
 
 Disini saya menggunakan modul :
