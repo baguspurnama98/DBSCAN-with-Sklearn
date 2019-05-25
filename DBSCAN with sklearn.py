@@ -16,7 +16,6 @@ n_noise_ = list(labels).count(-1)
 print('Estimated number of clusters: %d' % n_clusters_)
 print('Estimated number of noise points: %d' % n_noise_)
 
-#jumlah data
 unique, counts = np.unique(labels, return_counts=True)
 banyakData = list(counts)
 dataUnik = list(unique)
